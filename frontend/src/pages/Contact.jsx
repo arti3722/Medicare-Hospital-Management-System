@@ -13,12 +13,11 @@ const Contact = () => {
         <img className='w-full md:max-w-[360px]' src={assets.contact_image} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className=' font-semibold text-lg text-gray-600'>OUR OFFICE</p>
-          <p className=' text-gray-500'>Survey No. 140 - 141/1 <br />M.P Nagar, Bhopal, Madhya Pradesh</p>
-          <p className=' text-gray-500'>Tel: (+91)-1234567892 <br /> Email: prescirpto@gmail.com</p>
+          <p className=' text-gray-500'>Tel: (+91)-7429 862 235 <br /> Email: aratipurbey997@gmail.com</p>
           <p className=' font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
           <p className=' text-gray-500'>Learn more about our teams and job openings.</p>
           <a
-            href="https://github.com/AsmitaMishra24"
+            href="https://github.com/arti3722"
             target="_blank"
             rel="noopener noreferrer"
           >
